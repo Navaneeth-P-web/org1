@@ -1,0 +1,13 @@
+h1{
+    color: bisque
+}
+.header{
+    background-color: rgb(33, 250, 178)  ;
+display:flex ;
+justify-content : space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
